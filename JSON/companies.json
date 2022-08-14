@@ -1,0 +1,14 @@
+[
+    {
+        "name": "JPMC",
+        "numberOfEmployees": 1000000,
+        "ceo":"Jamie Dimon",
+        "rating":"4.5"
+    },
+    {
+        "name": "Gravity ilabs",
+        "numberOfEmployees": 5000,
+        "ceo":"Henry Patrick",
+        "rating":"5.0"
+    }
+]
