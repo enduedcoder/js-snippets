@@ -32,6 +32,6 @@ function add(array, element) {
   //address is passed here
   array.push(element); // here we are pushing to memeory address . push is just modifying the array not assigning again. array here has address . push will just add element to the location pointed by array
 
-  //createing new address which assignmenet here
+  //creating new address which assignmenet here
   // array = [element]; // we are copying the value from array to new array. Here we created a new memory location and assigned to array. and it is no longer pointing to c
 }

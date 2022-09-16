@@ -4,7 +4,7 @@
 // printName(user);
 
 // // DMI
-// // see this in network time. after 5 seconda only the user.js will looad
+// // see this in network time. after 5 seconds, only the user.js will load
 // setTimeout(() => {
 //   import('./user.js').then(({ default: User, printName }) => {
 //     const user = new User('Bruce', 'Wayne');
